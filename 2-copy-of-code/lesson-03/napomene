@@ -1,0 +1,3 @@
+pseudoklasa: hover, active
+ne stavljati tranzicije u pseudoklase
+shadow: horizontalna, vertikalna, blur, boja
