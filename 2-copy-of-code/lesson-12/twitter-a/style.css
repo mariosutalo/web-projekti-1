@@ -1,0 +1,66 @@
+.profile-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+    margin-right: 10px;
+}
+
+.post-div {
+
+}
+
+.user-div {
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+.username-p {
+    flex: 1;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+.more-info-button {
+    border: none;
+    background-color: transparent;
+}
+
+.username-span {
+    font-weight: 400;
+    color: rgb(60, 60, 60);
+}
+
+.post-content-p {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.post-date-info-p {
+    color: rgb(60, 60, 60);
+}
+
+.divider-div {
+    height: 1px;
+    background-color: rgb(60, 60, 60);
+}
+
+.stats-p {
+    font-weight: 600;
+    display: inline-block;
+}
+
+.stats-span {
+    color: rgb(60, 60, 60);
+}
+
+.icon-img {
+    height: 20px;
+    width: 20px;
+}
+
+.icons-div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+}
